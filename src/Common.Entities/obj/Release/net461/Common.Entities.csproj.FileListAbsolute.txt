@@ -1,0 +1,7 @@
+D:\enginkirmaci\Projects\Common\src\Common.Entities\bin\Release\net461\Common.Entities.dll
+D:\enginkirmaci\Projects\Common\src\Common.Entities\bin\Release\net461\Common.Entities.pdb
+D:\enginkirmaci\Projects\Common\src\Common.Entities\bin\Release\net461\Newtonsoft.Json.dll
+D:\enginkirmaci\Projects\Common\src\Common.Entities\obj\Release\net461\Common.Entities.AssemblyInfo.cs
+D:\enginkirmaci\Projects\Common\src\Common.Entities\obj\Release\net461\Common.Entities.dll
+D:\enginkirmaci\Projects\Common\src\Common.Entities\obj\Release\net461\Common.Entities.pdb
+D:\enginkirmaci\Projects\Common\src\Common.Entities\obj\Release\net461\Common.Entities.csprojResolveAssemblyReference.cache

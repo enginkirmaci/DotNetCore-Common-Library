@@ -1,0 +1,22 @@
+﻿-d:DEBUG
+-d:TRACE
+-d:NET461
+-nowarn:CS1701
+-nowarn:CS1702
+-nowarn:CS1705
+-t:library
+-debug:full
+-nostdlib
+-nologo
+"D:\enginkirmaci\Projects\Common\src\Common.Entities\obj\Debug\net461\dotnet-compile.assemblyinfo.cs"
+-out:"D:\enginkirmaci\Projects\Common\src\Common.Entities\bin\Debug\net461\Common.Entities.dll"
+-r:"C:\Users\e.kirmaci\.nuget\packages\Newtonsoft.Json\9.0.1\lib\net45\Newtonsoft.Json.dll"
+-r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\mscorlib.dll"
+-r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.dll"
+-r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Core.dll"
+-r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Microsoft.CSharp.dll"
+"D:\enginkirmaci\Projects\Common\src\Common.Entities\BaseError.cs"
+"D:\enginkirmaci\Projects\Common\src\Common.Entities\BaseResult.cs"
+"D:\enginkirmaci\Projects\Common\src\Common.Entities\Constants\RegularExp.cs"
+"D:\enginkirmaci\Projects\Common\src\Common.Entities\Enums\TransactionType.cs"
+"D:\enginkirmaci\Projects\Common\src\Common.Entities\Properties\AssemblyInfo.cs"
