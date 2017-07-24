@@ -1,9 +1,0 @@
-D:\enginkirmaci\Projects\Common\src\Common.Utilities\bin\Debug\net461\Common.Utilities.dll
-D:\enginkirmaci\Projects\Common\src\Common.Utilities\bin\Debug\net461\Common.Utilities.pdb
-D:\enginkirmaci\Projects\Common\src\Common.Utilities\bin\Debug\net461\Newtonsoft.Json.dll
-D:\enginkirmaci\Projects\Common\src\Common.Utilities\bin\Debug\net461\Common.Entities.dll
-D:\enginkirmaci\Projects\Common\src\Common.Utilities\bin\Debug\net461\Common.Entities.pdb
-D:\enginkirmaci\Projects\Common\src\Common.Utilities\obj\Debug\net461\Common.Utilities.csprojResolveAssemblyReference.cache
-D:\enginkirmaci\Projects\Common\src\Common.Utilities\obj\Debug\net461\Common.Utilities.AssemblyInfo.cs
-D:\enginkirmaci\Projects\Common\src\Common.Utilities\obj\Debug\net461\Common.Utilities.dll
-D:\enginkirmaci\Projects\Common\src\Common.Utilities\obj\Debug\net461\Common.Utilities.pdb
